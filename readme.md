@@ -1,10 +1,5 @@
 # Wafer-Fault-Detection-ML-Project
 
-Due to file size constrains I have uploaded the Files on the Google Drive.
-
-Google Drive Link - https://drive.google.com/drive/folders/1wQs-QUpi5B7EVMzmnSJPOQxqZNcRDnnQ?usp=sharing
-
-Try the app - http://waferfaultdetectionaws-env-1.eba-djpr3n2p.us-east-1.elasticbeanstalk.com/
 
 (Due To Free Tier limitations, i have currently terminated the app)
 
@@ -109,17 +104,7 @@ In this step, we perform different sets of validation on the given set of traini
 
 ### Language Used - Python
 
-### Deployed on - AWS(Elastic Beanstalk) - https://www.knowledgehut.com/blog/cloud-computing/what-is-beanstalk and https://aws.amazon.com/elasticbeanstalk/
-
-### Front End by - iNeuron
-
-### Framework - Flask
-
-### Tools - PyCharm
-
-### Algorihtms - Random Forest Classifier and XGBoost Classifier
-
-### Accuracy Metric - AUC Score
+### Deployed on - AWS(Elastic Beanstalk) 
 
 ## Advantages of using AWS Elastic Beanstalk :-
  1.AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker   on familiar servers such as Apache, Nginx, Passenger, and IIS.
